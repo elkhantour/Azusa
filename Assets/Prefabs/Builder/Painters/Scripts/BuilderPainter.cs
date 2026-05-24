@@ -151,8 +151,7 @@ namespace Island
                 }
 
             }
-
-
+	    
             private void SpawnNewChunk()
             {
                 _activeChunk = Instantiate(chunkPrefab, _root?.transform);
