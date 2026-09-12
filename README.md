@@ -53,7 +53,7 @@ Textures are generated using Unity's orthographic projection to render masks. Th
 A first batch of props was modeled to support the early mechanics and to help nail down the overall art direction.
 
 ![Prop 1](docs/images/props-plant-1.jpg)
-![Prop 2](docs/images/props-plant-2.jpg)
+![Prop 2](docs/images/props-plant-1.jpg)
 ![Prop 3](docs/images/props-potion.jpg)
 ![Prop 4](docs/images/props-nomad-house.jpg)
 ![Prop 5](docs/images/props-character.jpg)
