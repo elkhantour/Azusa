@@ -15,7 +15,7 @@ Azusa takes place in a world made of procedural islands floating in space (a "sp
 Vegetation placement initially relied on pure Perlin noise, but this caused a lot of mesh clipping between plants. It was replaced with a jittered grid instead: each vegetation type has a "footprint" defining how many grid cells it occupies, which keeps placement dense and natural while avoiding overlap.
 
 ![Vegetation distribution 1](docs/images/flora-perlin-grid.jpg)
-![Vegetation distribution 2](docs/images/flora-jittered-process.jpg)
+![Vegetation distribution 2](docs/images/flora-jittered-process-scheme.jpg)
 ![Vegetation distribution 3](docs/images/flora-foot-print.jpg)
 ![Vegetation distribution 4](docs/images/flora-jittered-ingame.jpg)
 
